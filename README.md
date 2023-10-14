@@ -1,1 +1,4 @@
-# python-exercises
+# python-exercises 
+
+koukousei
+suiminn
